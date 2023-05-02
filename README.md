@@ -23,18 +23,8 @@
 
 ## Introduction
 
-Python provides us a great deal of flexibility when defining classes and
-creating objects. We can give attributes and methods to classes and their
-objects, even adding brand new attributes to those objects after they are
-instantiated. We can also create classes that _inherit_ from one another, with
-different children getting the same attributes and methods from a parent.
+Python offers a high degree of flexibility in defining classes and creating objects. With Python, we can assign attributes and methods to classes and objects, as well as add new attributes to objects even after they have been instantiated. Additionally, we can create classes that inherit attributes and methods from a parent, enabling children classes to receive those features.
 
-Some relationships between classes and objects aren't quite as simple as
-parent-to-child. "Curriculum Developer" and "Instructor" are clearly examples
-of "Jobs", but how do they relate to important related concepts like "Duties"
-and "Schedules"? We can't use inheritance to solve these problems, but we can
-use Python techniques that you're already familiar with to build all variety
-of relationships.
+However, some relationships between classes and objects are not as straightforward as parent-child relationships. For instance, the job titles "Curriculum Developer" and "Instructor" fall under the broader category of "Jobs", but they also have associated concepts such as "Duties" and "Schedules". In such cases, we can't rely solely on inheritance to solve these issues. Nevertheless, we can still use the same Python techniques that you're already familiar with to create a wide variety of relationships.
 
-In this module, we will explore these different types of relationships and how
-to use Python to create them.
+In this module, we will delve into the various types of relationships and explore how to leverage Python to establish them.
